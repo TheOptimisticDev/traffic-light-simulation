@@ -1,6 +1,6 @@
 # 🚦 Traffic Light Simulation  
 
-This project was developed after accepting a **TikTok challenge** by [**Global Tech Sailors**](https://www.tiktok.com/@global_tech_sailors) to create a **traffic light system** that changes colors at specific time intervals and continues this cycle infinitely using **Vanilla JavaScript**. The project demonstrates **real-world traffic light behavior**, accurately demonstrated and inspired by the **Cnr Sanders & Forbes traffic light giving way to Healed Street** at Meadowlands, Johannesburg, Gauteng, South Africa.
+This project was developed after accepting a **TikTok challenge** by [**Global Tech Sailors**](https://www.tiktok.com/@gtechsailors/video/7473567432494402871) to create a **traffic light system** that changes colors at specific time intervals and continues this cycle infinitely using **Vanilla JavaScript**. The project demonstrates **real-world traffic light behavior**, accurately demonstrated and inspired by the **Cnr Sanders & Forbes traffic light giving way to Healed Street** at Meadowlands, Johannesburg, Gauteng, South Africa.
 
 ## 🌟 Features  
 ✅ **Standard Traffic Light Cycle** (Red → Yellow → Green)  
